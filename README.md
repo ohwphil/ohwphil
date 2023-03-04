@@ -6,9 +6,7 @@
 
 상 : 언어를 가지고 이것저것 많이 해봤다
 
-중 : 아직 배워가는 단계다
-
-하 : 할 줄만 안다 / 가물가물하다 (최소한의 경험만 있다)
+중 : 아직 배워가는 단계다. 하지만 알아야 하는건 웬만하면 안다
 
 | 언어                                                                                                                         | 숙련도 |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------ |
@@ -18,9 +16,6 @@
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)                    | 중     |
 | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)                       | 중     |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | 중     |
-| ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)                      | 하     |
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)                       | 하     |
-| ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)                                | 하     |
 
 ## 사용 가능한 프레임워크
 
@@ -40,6 +35,3 @@
 | 프레임워크                                                                                                                | 숙련도 |
 | ------------------------------------------------------------------------------------------------------------------------- | ------ |
 | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | 중     |
-| ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)                       | 하     |
-| ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)                   | 하     |
-| ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)         | 하     |
